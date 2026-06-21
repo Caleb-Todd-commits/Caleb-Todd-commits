@@ -28,10 +28,7 @@ Built under competition constraints with a focus on rapid implementation, practi
 **Repository:** [PatchPilot](https://github.com/Caleb-Todd-commits/PatchPilot)
 
 ### DataFest
-Awarded **Best Use of Outside Data**.  
-Used external data sources to strengthen analysis, improve context, and generate stronger insights beyond the original dataset.
-
-**Case study:** [DataFest — Best Use of Outside Data](projects/datafest-outside-data.md)
+Awarded **Best Use of Outside Data**.
 
 ### Active Challenge Builds
 Currently building code for global challenge projects and competition-style prototypes.
