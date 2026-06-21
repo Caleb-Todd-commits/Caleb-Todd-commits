@@ -18,7 +18,8 @@ I build software with a security mindset: practical tools, clear risk boundaries
 Private-code product focused on centralizing calendar and community event information from user-connected sources.  
 Built around real-world product concerns: authentication, sync workflows, API integrations, privacy-conscious data handling, and reducing scattered information into a cleaner experience.
 
-**Status:** private source code; walkthrough or time-boxed review available on request.
+**Status:** private source code; walkthrough or time-boxed review available on request.  
+**Case study:** [ReduceToOne private-code product case study](projects/reducetoone-case-study.md)
 
 ### PatchPilot
 2nd place OpenAI competition project.  
@@ -29,6 +30,8 @@ Built under competition constraints with a focus on rapid implementation, practi
 ### DataFest
 Awarded **Best Use of Outside Data**.  
 Used external data sources to strengthen analysis, improve context, and generate stronger insights beyond the original dataset.
+
+**Case study:** [DataFest — Best Use of Outside Data](projects/datafest-outside-data.md)
 
 ### Active Challenge Builds
 Currently building code for global challenge projects and competition-style prototypes.
