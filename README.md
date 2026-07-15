@@ -1,6 +1,6 @@
 # Caleb Todd
 
-Cybersecurity & Information Systems student at Freed-Hardeman University, graduating December 2026.  
+CompTIA Security+ certified Cybersecurity & Information Systems student at Freed-Hardeman University, graduating December 2026.  
 Focused on junior cybersecurity analyst, security support, and security-focused software roles.
 
 I build software with a security mindset: practical tools, clear risk boundaries, responsible AI workflows, and systems that are useful under real-world constraints.
@@ -45,7 +45,7 @@ Currently building code for global challenge projects and competition-style prot
 
 ## Credentials
 
-- CompTIA Security+ — Expected 2026
+- CompTIA Security+ (SY0-701) — issued July 2026; valid through July 2029
 - ISC2 Certified in Cybersecurity (CC) exam passed — 2025
 - U.S. citizen; able to obtain a security clearance
 
